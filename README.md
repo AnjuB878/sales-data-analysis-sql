@@ -34,7 +34,7 @@ This project demonstrates the use of SQL for data analysis by extracting meaning
 
 ## Sample Output
 
-![Sales Analysis](sales-output.png)
+![Sales Analysis](total-sales.png)(monthly-sales.png)
 
 ## Sample Query
 
