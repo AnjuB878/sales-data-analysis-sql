@@ -27,6 +27,14 @@ Analyze customer and order data to identify sales trends and key business insigh
 - Sales peaked in March
 - Average order value was ₹581.25
 - All customers were active
+  
+## Conclusion
+
+This project demonstrates the use of SQL for data analysis by extracting meaningful business insights from structured data.
+
+## Sample Output
+
+![Sales Analysis](sales-output.png)
 
 ## Sample Query
 
@@ -36,5 +44,8 @@ FROM customers c
 JOIN orders o ON c.customer_id = o.customer_id
 GROUP BY c.customer_name;
 
-## Conclusion
-This project demonstrates the use of SQL for data analysis by extracting meaningful business insights from structured data.
+
+
+
+
+
